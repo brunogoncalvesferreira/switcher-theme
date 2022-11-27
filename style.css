@@ -1,0 +1,28 @@
+:root {
+  --dark: #292c35;
+  --light: #f1f1f1;
+  --label: #111;
+}
+
+body {
+  background-color: var(--dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.theme {
+  width: 12rem;
+  padding: 0.5rem;
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--label);
+}
+
+.theme img {
+  width: 4rem;
+  cursor: pointer;
+}
