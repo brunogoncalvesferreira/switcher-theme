@@ -24,7 +24,7 @@ O layout da aplicação:
   <img alt="preview" title="preview" src=".github/preview.gif" width="600px">
 </p>
 
-<a href="https://rocketseat-blog.netlify.app/">Link da aplicação online</a>
+<a href="https://brunogoncalvesferreira.github.io/switcher-theme/">Link da aplicação online</a>
 
 ---
 
