@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Nesse desafio proposto pela @rocketseat tinhamos que desenvolver uma página que contenha um toggle para alternar entre o tema dark e light.
+Nesse desafio proposto pela ROCKETSEAT tinhamos que desenvolver uma página que contenha um toggle para alternar entre o tema dark e light.
 
 ---
 
